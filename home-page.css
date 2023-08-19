@@ -1,0 +1,79 @@
+
+body {
+    display: block;
+    width: 700px;
+    background-color: #cccccc;
+}
+
+.tabs {
+    display: flex;
+    margin-left: 80px;
+}
+
+.logo {
+    align-content: center;
+    margin-left: 10px;
+}
+
+.about {
+    position: relative;
+    align-content: center;
+    margin-left: 250px;
+    margin-top: -150px;
+}
+
+.wwd {
+    margin-left: 80px;
+    margin-top: -150px;
+}
+
+.wycd {
+    margin-left: 80px;
+    margin-top: -150px;
+}
+
+.team {
+    margin-left: 80px;
+    margin-top: -150px;
+}
+
+.intro {
+    width: 150px;
+    margin-top: 100px;
+    font-size: 35px;
+    font-family: monospace;
+}
+
+.inc {
+    width: 500px;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.gamers {
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+.paragraph {
+    width: 500px;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 1050px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.potential {
+    margin-left: 900px;
+    margin-top: 50px;
+    font-size: 35px;
+    font-family: monospace;
+}
+
+.friends {
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
